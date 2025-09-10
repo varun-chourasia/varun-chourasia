@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I'm Varun!<br>🚀 Python Developer | Data Enthusiast | Aspiring Data Scientist<br><br>🛠 What I Do<br>💻 Building a meaningful insights  from datasets <br>🎨 Prepare the Data  with advanced features<br>☀️ Designing Visualization's as a hobby<br>🔧 Skills<br>Python & Libraries: NumPy, Pandas, Matplotlib, Seaborn<br>Frontend: PyQt5 (GUI development)<br>Data Analysis & Visualization<br>Statistical Analysis  And Testing
+ Hi, I'm Varun!<br>🚀 Python Developer | Data Enthusiast | Aspiring Data Scientist<br><br>🛠 What I Do<br>💻 Building a meaningful insights  from datasets <br>🎨 Prepare the Data  with advanced features<br>☀️ Designing Visualization's as a hobby<br>🔧 Skills<br>Python & Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn<br>Frontend: PyQt5 (GUI development)<br>Data Analysis & Visualization<br>Statistical Analysis  And Testing
 
 
 ## 🌐 Socials:
